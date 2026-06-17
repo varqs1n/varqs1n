@@ -23,7 +23,7 @@
 <div align="center">
 
 <img src="https://i.postimg.cc/RZL911Kc/in-love.gif" width="100" />&nbsp;&nbsp;
-<img src="https://dl.glitter-graphics.com/pub/349/349111zj2ioy07x7.gif" width="200" />&nbsp;&nbsp;
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dbd06e6e-b313-4acc-80d7-2f76026c8171/desya2r-a398d57e-eff4-4713-bf3e-3e00f0927895.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kYmQwNmU2ZS1iMzEzLTRhY2MtODBkNy0yZjc2MDI2YzgxNzEvZGVzeWEyci1hMzk4ZDU3ZS1lZmY0LTQ3MTMtYmYzZS0zZTAwZjA5Mjc4OTUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.O0su3REvnsUfr9NX-gaQENR0H5GkQZxUZZt7YxiLeyM" width="200" />&nbsp;&nbsp;
 <img src="https://files.catbox.moe/nv5tih.gif" width="100" />
 
 </div>
