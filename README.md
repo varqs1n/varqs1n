@@ -27,3 +27,20 @@
 <img src="https://files.catbox.moe/nv5tih.gif" width="100" />
 
 </div>
+
+<img src="https://img.shields.io/badge/info%20abt%20me-6b887c?style=flat&labelColor=000000" /> 
+<span style="font-family: Arial, sans-serif;">
+: Bored, he/him/hers • INFP • 2w1.3 • white • Taurus • 16/05 • Straight okay?!
+</span>
+
+
+<br><br>
+<img src="https://img.shields.io/badge/dni-6b887c?style=flat&labelColor=000000" /> 
+<span style="font-family: Arial, sans-serif;">  Basic dni I usually am talkative so please do chat with me!! Im usually sitting with my girlfriend. Thank you!!
+</span>
+
+<br><br>
+<img src="https://img.shields.io/badge/love%20%26%20enjoy-6b887c?style=flat&labelColor=000000" /> 
+<span style="font-family: Arial, sans-serif;">
+: Valorant • Bleach • horror games • One piece & more!! Im interested in new stuffs
+</span>
