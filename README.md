@@ -29,8 +29,7 @@
 </div>
 
 <img src="https://img.shields.io/badge/info%20abt%20me-6b887c?style=flat&labelColor=000000" /> 
-<span style="font-family: Arial, sans-serif;">
-: Bored, he/him/hers • INFP • 2w1.3 • white • Taurus • 16/05 • Straight okay?!
+<span style="font-family: Arial, sans-serif;"> Bored, he/him/hers • INFP • 2w1.3 • white • Taurus • 16/05 • Straight okay?!
 </span>
 
 
