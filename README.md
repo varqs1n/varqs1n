@@ -20,3 +20,10 @@
 
   </text>
 </svg>
+<div align="center">
+
+<img src="https://i.postimg.cc/RZL911Kc/in-love.gif" width="100" />&nbsp;&nbsp;
+<img src="https://dl.glitter-graphics.com/pub/349/349111zj2ioy07x7.gif" width="200" />&nbsp;&nbsp;
+<img src="https://files.catbox.moe/nv5tih.gif" width="100" />
+
+</div>
